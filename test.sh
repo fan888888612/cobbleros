@@ -1,1 +1,1 @@
-mkdir wangxu
+/bin/mkdir /root/wangxu
